@@ -1,6 +1,6 @@
 class PagesController < ApplicationController
   def home
-    puts "asd"
+    puts "asd2"
   end
 
   def update_counter
